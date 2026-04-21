@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="BikeDemandForecasting/BikeDemandForecasting.csproj" />
+  <Project Path="GitHubIssueClassification/GitHubIssueClassification.csproj" />
   <Project Path="SentimentAnalysis/SentimentAnalysis.csproj" />
   <Project Path="TaxiFarePrediction/TaxiFarePrediction.csproj" />
 </Solution>
