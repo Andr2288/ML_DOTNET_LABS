@@ -1,0 +1,3657 @@
+[
+  {
+    "RentalDate": "2011-01-01",
+    "Year": 0.0,
+    "TotalRentals": 985.0
+  },
+  {
+    "RentalDate": "2011-01-02",
+    "Year": 0.0,
+    "TotalRentals": 801.0
+  },
+  {
+    "RentalDate": "2011-01-03",
+    "Year": 0.0,
+    "TotalRentals": 1349.0
+  },
+  {
+    "RentalDate": "2011-01-04",
+    "Year": 0.0,
+    "TotalRentals": 1562.0
+  },
+  {
+    "RentalDate": "2011-01-05",
+    "Year": 0.0,
+    "TotalRentals": 1600.0
+  },
+  {
+    "RentalDate": "2011-01-06",
+    "Year": 0.0,
+    "TotalRentals": 1606.0
+  },
+  {
+    "RentalDate": "2011-01-07",
+    "Year": 0.0,
+    "TotalRentals": 1510.0
+  },
+  {
+    "RentalDate": "2011-01-08",
+    "Year": 0.0,
+    "TotalRentals": 959.0
+  },
+  {
+    "RentalDate": "2011-01-09",
+    "Year": 0.0,
+    "TotalRentals": 822.0
+  },
+  {
+    "RentalDate": "2011-01-10",
+    "Year": 0.0,
+    "TotalRentals": 1321.0
+  },
+  {
+    "RentalDate": "2011-01-11",
+    "Year": 0.0,
+    "TotalRentals": 1263.0
+  },
+  {
+    "RentalDate": "2011-01-12",
+    "Year": 0.0,
+    "TotalRentals": 1162.0
+  },
+  {
+    "RentalDate": "2011-01-13",
+    "Year": 0.0,
+    "TotalRentals": 1406.0
+  },
+  {
+    "RentalDate": "2011-01-14",
+    "Year": 0.0,
+    "TotalRentals": 1421.0
+  },
+  {
+    "RentalDate": "2011-01-15",
+    "Year": 0.0,
+    "TotalRentals": 1248.0
+  },
+  {
+    "RentalDate": "2011-01-16",
+    "Year": 0.0,
+    "TotalRentals": 1204.0
+  },
+  {
+    "RentalDate": "2011-01-17",
+    "Year": 0.0,
+    "TotalRentals": 1000.0
+  },
+  {
+    "RentalDate": "2011-01-18",
+    "Year": 0.0,
+    "TotalRentals": 683.0
+  },
+  {
+    "RentalDate": "2011-01-19",
+    "Year": 0.0,
+    "TotalRentals": 1650.0
+  },
+  {
+    "RentalDate": "2011-01-20",
+    "Year": 0.0,
+    "TotalRentals": 1927.0
+  },
+  {
+    "RentalDate": "2011-01-21",
+    "Year": 0.0,
+    "TotalRentals": 1543.0
+  },
+  {
+    "RentalDate": "2011-01-22",
+    "Year": 0.0,
+    "TotalRentals": 981.0
+  },
+  {
+    "RentalDate": "2011-01-23",
+    "Year": 0.0,
+    "TotalRentals": 986.0
+  },
+  {
+    "RentalDate": "2011-01-24",
+    "Year": 0.0,
+    "TotalRentals": 1416.0
+  },
+  {
+    "RentalDate": "2011-01-25",
+    "Year": 0.0,
+    "TotalRentals": 1985.0
+  },
+  {
+    "RentalDate": "2011-01-26",
+    "Year": 0.0,
+    "TotalRentals": 506.0
+  },
+  {
+    "RentalDate": "2011-01-27",
+    "Year": 0.0,
+    "TotalRentals": 431.0
+  },
+  {
+    "RentalDate": "2011-01-28",
+    "Year": 0.0,
+    "TotalRentals": 1167.0
+  },
+  {
+    "RentalDate": "2011-01-29",
+    "Year": 0.0,
+    "TotalRentals": 1098.0
+  },
+  {
+    "RentalDate": "2011-01-30",
+    "Year": 0.0,
+    "TotalRentals": 1096.0
+  },
+  {
+    "RentalDate": "2011-01-31",
+    "Year": 0.0,
+    "TotalRentals": 1501.0
+  },
+  {
+    "RentalDate": "2011-02-01",
+    "Year": 0.0,
+    "TotalRentals": 1360.0
+  },
+  {
+    "RentalDate": "2011-02-02",
+    "Year": 0.0,
+    "TotalRentals": 1526.0
+  },
+  {
+    "RentalDate": "2011-02-03",
+    "Year": 0.0,
+    "TotalRentals": 1550.0
+  },
+  {
+    "RentalDate": "2011-02-04",
+    "Year": 0.0,
+    "TotalRentals": 1708.0
+  },
+  {
+    "RentalDate": "2011-02-05",
+    "Year": 0.0,
+    "TotalRentals": 1005.0
+  },
+  {
+    "RentalDate": "2011-02-06",
+    "Year": 0.0,
+    "TotalRentals": 1623.0
+  },
+  {
+    "RentalDate": "2011-02-07",
+    "Year": 0.0,
+    "TotalRentals": 1712.0
+  },
+  {
+    "RentalDate": "2011-02-08",
+    "Year": 0.0,
+    "TotalRentals": 1530.0
+  },
+  {
+    "RentalDate": "2011-02-09",
+    "Year": 0.0,
+    "TotalRentals": 1605.0
+  },
+  {
+    "RentalDate": "2011-02-10",
+    "Year": 0.0,
+    "TotalRentals": 1538.0
+  },
+  {
+    "RentalDate": "2011-02-11",
+    "Year": 0.0,
+    "TotalRentals": 1746.0
+  },
+  {
+    "RentalDate": "2011-02-12",
+    "Year": 0.0,
+    "TotalRentals": 1472.0
+  },
+  {
+    "RentalDate": "2011-02-13",
+    "Year": 0.0,
+    "TotalRentals": 1589.0
+  },
+  {
+    "RentalDate": "2011-02-14",
+    "Year": 0.0,
+    "TotalRentals": 1913.0
+  },
+  {
+    "RentalDate": "2011-02-15",
+    "Year": 0.0,
+    "TotalRentals": 1815.0
+  },
+  {
+    "RentalDate": "2011-02-16",
+    "Year": 0.0,
+    "TotalRentals": 2115.0
+  },
+  {
+    "RentalDate": "2011-02-17",
+    "Year": 0.0,
+    "TotalRentals": 2475.0
+  },
+  {
+    "RentalDate": "2011-02-18",
+    "Year": 0.0,
+    "TotalRentals": 2927.0
+  },
+  {
+    "RentalDate": "2011-02-19",
+    "Year": 0.0,
+    "TotalRentals": 1635.0
+  },
+  {
+    "RentalDate": "2011-02-20",
+    "Year": 0.0,
+    "TotalRentals": 1812.0
+  },
+  {
+    "RentalDate": "2011-02-21",
+    "Year": 0.0,
+    "TotalRentals": 1107.0
+  },
+  {
+    "RentalDate": "2011-02-22",
+    "Year": 0.0,
+    "TotalRentals": 1450.0
+  },
+  {
+    "RentalDate": "2011-02-23",
+    "Year": 0.0,
+    "TotalRentals": 1917.0
+  },
+  {
+    "RentalDate": "2011-02-24",
+    "Year": 0.0,
+    "TotalRentals": 1807.0
+  },
+  {
+    "RentalDate": "2011-02-25",
+    "Year": 0.0,
+    "TotalRentals": 1461.0
+  },
+  {
+    "RentalDate": "2011-02-26",
+    "Year": 0.0,
+    "TotalRentals": 1969.0
+  },
+  {
+    "RentalDate": "2011-02-27",
+    "Year": 0.0,
+    "TotalRentals": 2402.0
+  },
+  {
+    "RentalDate": "2011-02-28",
+    "Year": 0.0,
+    "TotalRentals": 1446.0
+  },
+  {
+    "RentalDate": "2011-03-01",
+    "Year": 0.0,
+    "TotalRentals": 1851.0
+  },
+  {
+    "RentalDate": "2011-03-02",
+    "Year": 0.0,
+    "TotalRentals": 2134.0
+  },
+  {
+    "RentalDate": "2011-03-03",
+    "Year": 0.0,
+    "TotalRentals": 1685.0
+  },
+  {
+    "RentalDate": "2011-03-04",
+    "Year": 0.0,
+    "TotalRentals": 1944.0
+  },
+  {
+    "RentalDate": "2011-03-05",
+    "Year": 0.0,
+    "TotalRentals": 2077.0
+  },
+  {
+    "RentalDate": "2011-03-06",
+    "Year": 0.0,
+    "TotalRentals": 605.0
+  },
+  {
+    "RentalDate": "2011-03-07",
+    "Year": 0.0,
+    "TotalRentals": 1872.0
+  },
+  {
+    "RentalDate": "2011-03-08",
+    "Year": 0.0,
+    "TotalRentals": 2133.0
+  },
+  {
+    "RentalDate": "2011-03-09",
+    "Year": 0.0,
+    "TotalRentals": 1891.0
+  },
+  {
+    "RentalDate": "2011-03-10",
+    "Year": 0.0,
+    "TotalRentals": 623.0
+  },
+  {
+    "RentalDate": "2011-03-11",
+    "Year": 0.0,
+    "TotalRentals": 1977.0
+  },
+  {
+    "RentalDate": "2011-03-12",
+    "Year": 0.0,
+    "TotalRentals": 2132.0
+  },
+  {
+    "RentalDate": "2011-03-13",
+    "Year": 0.0,
+    "TotalRentals": 2417.0
+  },
+  {
+    "RentalDate": "2011-03-14",
+    "Year": 0.0,
+    "TotalRentals": 2046.0
+  },
+  {
+    "RentalDate": "2011-03-15",
+    "Year": 0.0,
+    "TotalRentals": 2056.0
+  },
+  {
+    "RentalDate": "2011-03-16",
+    "Year": 0.0,
+    "TotalRentals": 2192.0
+  },
+  {
+    "RentalDate": "2011-03-17",
+    "Year": 0.0,
+    "TotalRentals": 2744.0
+  },
+  {
+    "RentalDate": "2011-03-18",
+    "Year": 0.0,
+    "TotalRentals": 3239.0
+  },
+  {
+    "RentalDate": "2011-03-19",
+    "Year": 0.0,
+    "TotalRentals": 3117.0
+  },
+  {
+    "RentalDate": "2011-03-20",
+    "Year": 0.0,
+    "TotalRentals": 2471.0
+  },
+  {
+    "RentalDate": "2011-03-21",
+    "Year": 0.0,
+    "TotalRentals": 2077.0
+  },
+  {
+    "RentalDate": "2011-03-22",
+    "Year": 0.0,
+    "TotalRentals": 2703.0
+  },
+  {
+    "RentalDate": "2011-03-23",
+    "Year": 0.0,
+    "TotalRentals": 2121.0
+  },
+  {
+    "RentalDate": "2011-03-24",
+    "Year": 0.0,
+    "TotalRentals": 1865.0
+  },
+  {
+    "RentalDate": "2011-03-25",
+    "Year": 0.0,
+    "TotalRentals": 2210.0
+  },
+  {
+    "RentalDate": "2011-03-26",
+    "Year": 0.0,
+    "TotalRentals": 2496.0
+  },
+  {
+    "RentalDate": "2011-03-27",
+    "Year": 0.0,
+    "TotalRentals": 1693.0
+  },
+  {
+    "RentalDate": "2011-03-28",
+    "Year": 0.0,
+    "TotalRentals": 2028.0
+  },
+  {
+    "RentalDate": "2011-03-29",
+    "Year": 0.0,
+    "TotalRentals": 2425.0
+  },
+  {
+    "RentalDate": "2011-03-30",
+    "Year": 0.0,
+    "TotalRentals": 1536.0
+  },
+  {
+    "RentalDate": "2011-03-31",
+    "Year": 0.0,
+    "TotalRentals": 1685.0
+  },
+  {
+    "RentalDate": "2011-04-01",
+    "Year": 0.0,
+    "TotalRentals": 2227.0
+  },
+  {
+    "RentalDate": "2011-04-02",
+    "Year": 0.0,
+    "TotalRentals": 2252.0
+  },
+  {
+    "RentalDate": "2011-04-03",
+    "Year": 0.0,
+    "TotalRentals": 3249.0
+  },
+  {
+    "RentalDate": "2011-04-04",
+    "Year": 0.0,
+    "TotalRentals": 3115.0
+  },
+  {
+    "RentalDate": "2011-04-05",
+    "Year": 0.0,
+    "TotalRentals": 1795.0
+  },
+  {
+    "RentalDate": "2011-04-06",
+    "Year": 0.0,
+    "TotalRentals": 2808.0
+  },
+  {
+    "RentalDate": "2011-04-07",
+    "Year": 0.0,
+    "TotalRentals": 3141.0
+  },
+  {
+    "RentalDate": "2011-04-08",
+    "Year": 0.0,
+    "TotalRentals": 1471.0
+  },
+  {
+    "RentalDate": "2011-04-09",
+    "Year": 0.0,
+    "TotalRentals": 2455.0
+  },
+  {
+    "RentalDate": "2011-04-10",
+    "Year": 0.0,
+    "TotalRentals": 2895.0
+  },
+  {
+    "RentalDate": "2011-04-11",
+    "Year": 0.0,
+    "TotalRentals": 3348.0
+  },
+  {
+    "RentalDate": "2011-04-12",
+    "Year": 0.0,
+    "TotalRentals": 2034.0
+  },
+  {
+    "RentalDate": "2011-04-13",
+    "Year": 0.0,
+    "TotalRentals": 2162.0
+  },
+  {
+    "RentalDate": "2011-04-14",
+    "Year": 0.0,
+    "TotalRentals": 3267.0
+  },
+  {
+    "RentalDate": "2011-04-15",
+    "Year": 0.0,
+    "TotalRentals": 3126.0
+  },
+  {
+    "RentalDate": "2011-04-16",
+    "Year": 0.0,
+    "TotalRentals": 795.0
+  },
+  {
+    "RentalDate": "2011-04-17",
+    "Year": 0.0,
+    "TotalRentals": 3744.0
+  },
+  {
+    "RentalDate": "2011-04-18",
+    "Year": 0.0,
+    "TotalRentals": 3429.0
+  },
+  {
+    "RentalDate": "2011-04-19",
+    "Year": 0.0,
+    "TotalRentals": 3204.0
+  },
+  {
+    "RentalDate": "2011-04-20",
+    "Year": 0.0,
+    "TotalRentals": 3944.0
+  },
+  {
+    "RentalDate": "2011-04-21",
+    "Year": 0.0,
+    "TotalRentals": 4189.0
+  },
+  {
+    "RentalDate": "2011-04-22",
+    "Year": 0.0,
+    "TotalRentals": 1683.0
+  },
+  {
+    "RentalDate": "2011-04-23",
+    "Year": 0.0,
+    "TotalRentals": 4036.0
+  },
+  {
+    "RentalDate": "2011-04-24",
+    "Year": 0.0,
+    "TotalRentals": 4191.0
+  },
+  {
+    "RentalDate": "2011-04-25",
+    "Year": 0.0,
+    "TotalRentals": 4073.0
+  },
+  {
+    "RentalDate": "2011-04-26",
+    "Year": 0.0,
+    "TotalRentals": 4400.0
+  },
+  {
+    "RentalDate": "2011-04-27",
+    "Year": 0.0,
+    "TotalRentals": 3872.0
+  },
+  {
+    "RentalDate": "2011-04-28",
+    "Year": 0.0,
+    "TotalRentals": 4058.0
+  },
+  {
+    "RentalDate": "2011-04-29",
+    "Year": 0.0,
+    "TotalRentals": 4595.0
+  },
+  {
+    "RentalDate": "2011-04-30",
+    "Year": 0.0,
+    "TotalRentals": 5312.0
+  },
+  {
+    "RentalDate": "2011-05-01",
+    "Year": 0.0,
+    "TotalRentals": 3351.0
+  },
+  {
+    "RentalDate": "2011-05-02",
+    "Year": 0.0,
+    "TotalRentals": 4401.0
+  },
+  {
+    "RentalDate": "2011-05-03",
+    "Year": 0.0,
+    "TotalRentals": 4451.0
+  },
+  {
+    "RentalDate": "2011-05-04",
+    "Year": 0.0,
+    "TotalRentals": 2633.0
+  },
+  {
+    "RentalDate": "2011-05-05",
+    "Year": 0.0,
+    "TotalRentals": 4433.0
+  },
+  {
+    "RentalDate": "2011-05-06",
+    "Year": 0.0,
+    "TotalRentals": 4608.0
+  },
+  {
+    "RentalDate": "2011-05-07",
+    "Year": 0.0,
+    "TotalRentals": 4714.0
+  },
+  {
+    "RentalDate": "2011-05-08",
+    "Year": 0.0,
+    "TotalRentals": 4333.0
+  },
+  {
+    "RentalDate": "2011-05-09",
+    "Year": 0.0,
+    "TotalRentals": 4362.0
+  },
+  {
+    "RentalDate": "2011-05-10",
+    "Year": 0.0,
+    "TotalRentals": 4803.0
+  },
+  {
+    "RentalDate": "2011-05-11",
+    "Year": 0.0,
+    "TotalRentals": 4182.0
+  },
+  {
+    "RentalDate": "2011-05-12",
+    "Year": 0.0,
+    "TotalRentals": 4864.0
+  },
+  {
+    "RentalDate": "2011-05-13",
+    "Year": 0.0,
+    "TotalRentals": 4105.0
+  },
+  {
+    "RentalDate": "2011-05-14",
+    "Year": 0.0,
+    "TotalRentals": 3409.0
+  },
+  {
+    "RentalDate": "2011-05-15",
+    "Year": 0.0,
+    "TotalRentals": 4553.0
+  },
+  {
+    "RentalDate": "2011-05-16",
+    "Year": 0.0,
+    "TotalRentals": 3958.0
+  },
+  {
+    "RentalDate": "2011-05-17",
+    "Year": 0.0,
+    "TotalRentals": 4123.0
+  },
+  {
+    "RentalDate": "2011-05-18",
+    "Year": 0.0,
+    "TotalRentals": 3855.0
+  },
+  {
+    "RentalDate": "2011-05-19",
+    "Year": 0.0,
+    "TotalRentals": 4575.0
+  },
+  {
+    "RentalDate": "2011-05-20",
+    "Year": 0.0,
+    "TotalRentals": 4917.0
+  },
+  {
+    "RentalDate": "2011-05-21",
+    "Year": 0.0,
+    "TotalRentals": 5805.0
+  },
+  {
+    "RentalDate": "2011-05-22",
+    "Year": 0.0,
+    "TotalRentals": 4660.0
+  },
+  {
+    "RentalDate": "2011-05-23",
+    "Year": 0.0,
+    "TotalRentals": 4274.0
+  },
+  {
+    "RentalDate": "2011-05-24",
+    "Year": 0.0,
+    "TotalRentals": 4492.0
+  },
+  {
+    "RentalDate": "2011-05-25",
+    "Year": 0.0,
+    "TotalRentals": 4978.0
+  },
+  {
+    "RentalDate": "2011-05-26",
+    "Year": 0.0,
+    "TotalRentals": 4677.0
+  },
+  {
+    "RentalDate": "2011-05-27",
+    "Year": 0.0,
+    "TotalRentals": 4679.0
+  },
+  {
+    "RentalDate": "2011-05-28",
+    "Year": 0.0,
+    "TotalRentals": 4758.0
+  },
+  {
+    "RentalDate": "2011-05-29",
+    "Year": 0.0,
+    "TotalRentals": 4788.0
+  },
+  {
+    "RentalDate": "2011-05-30",
+    "Year": 0.0,
+    "TotalRentals": 4098.0
+  },
+  {
+    "RentalDate": "2011-05-31",
+    "Year": 0.0,
+    "TotalRentals": 3982.0
+  },
+  {
+    "RentalDate": "2011-06-01",
+    "Year": 0.0,
+    "TotalRentals": 3974.0
+  },
+  {
+    "RentalDate": "2011-06-02",
+    "Year": 0.0,
+    "TotalRentals": 4968.0
+  },
+  {
+    "RentalDate": "2011-06-03",
+    "Year": 0.0,
+    "TotalRentals": 5312.0
+  },
+  {
+    "RentalDate": "2011-06-04",
+    "Year": 0.0,
+    "TotalRentals": 5342.0
+  },
+  {
+    "RentalDate": "2011-06-05",
+    "Year": 0.0,
+    "TotalRentals": 4906.0
+  },
+  {
+    "RentalDate": "2011-06-06",
+    "Year": 0.0,
+    "TotalRentals": 4548.0
+  },
+  {
+    "RentalDate": "2011-06-07",
+    "Year": 0.0,
+    "TotalRentals": 4833.0
+  },
+  {
+    "RentalDate": "2011-06-08",
+    "Year": 0.0,
+    "TotalRentals": 4401.0
+  },
+  {
+    "RentalDate": "2011-06-09",
+    "Year": 0.0,
+    "TotalRentals": 3915.0
+  },
+  {
+    "RentalDate": "2011-06-10",
+    "Year": 0.0,
+    "TotalRentals": 4586.0
+  },
+  {
+    "RentalDate": "2011-06-11",
+    "Year": 0.0,
+    "TotalRentals": 4966.0
+  },
+  {
+    "RentalDate": "2011-06-12",
+    "Year": 0.0,
+    "TotalRentals": 4460.0
+  },
+  {
+    "RentalDate": "2011-06-13",
+    "Year": 0.0,
+    "TotalRentals": 5020.0
+  },
+  {
+    "RentalDate": "2011-06-14",
+    "Year": 0.0,
+    "TotalRentals": 4891.0
+  },
+  {
+    "RentalDate": "2011-06-15",
+    "Year": 0.0,
+    "TotalRentals": 5180.0
+  },
+  {
+    "RentalDate": "2011-06-16",
+    "Year": 0.0,
+    "TotalRentals": 3767.0
+  },
+  {
+    "RentalDate": "2011-06-17",
+    "Year": 0.0,
+    "TotalRentals": 4844.0
+  },
+  {
+    "RentalDate": "2011-06-18",
+    "Year": 0.0,
+    "TotalRentals": 5119.0
+  },
+  {
+    "RentalDate": "2011-06-19",
+    "Year": 0.0,
+    "TotalRentals": 4744.0
+  },
+  {
+    "RentalDate": "2011-06-20",
+    "Year": 0.0,
+    "TotalRentals": 4010.0
+  },
+  {
+    "RentalDate": "2011-06-21",
+    "Year": 0.0,
+    "TotalRentals": 4835.0
+  },
+  {
+    "RentalDate": "2011-06-22",
+    "Year": 0.0,
+    "TotalRentals": 4507.0
+  },
+  {
+    "RentalDate": "2011-06-23",
+    "Year": 0.0,
+    "TotalRentals": 4790.0
+  },
+  {
+    "RentalDate": "2011-06-24",
+    "Year": 0.0,
+    "TotalRentals": 4991.0
+  },
+  {
+    "RentalDate": "2011-06-25",
+    "Year": 0.0,
+    "TotalRentals": 5202.0
+  },
+  {
+    "RentalDate": "2011-06-26",
+    "Year": 0.0,
+    "TotalRentals": 5305.0
+  },
+  {
+    "RentalDate": "2011-06-27",
+    "Year": 0.0,
+    "TotalRentals": 4708.0
+  },
+  {
+    "RentalDate": "2011-06-28",
+    "Year": 0.0,
+    "TotalRentals": 4648.0
+  },
+  {
+    "RentalDate": "2011-06-29",
+    "Year": 0.0,
+    "TotalRentals": 5225.0
+  },
+  {
+    "RentalDate": "2011-06-30",
+    "Year": 0.0,
+    "TotalRentals": 5515.0
+  },
+  {
+    "RentalDate": "2011-07-01",
+    "Year": 0.0,
+    "TotalRentals": 5362.0
+  },
+  {
+    "RentalDate": "2011-07-02",
+    "Year": 0.0,
+    "TotalRentals": 5119.0
+  },
+  {
+    "RentalDate": "2011-07-03",
+    "Year": 0.0,
+    "TotalRentals": 4649.0
+  },
+  {
+    "RentalDate": "2011-07-04",
+    "Year": 0.0,
+    "TotalRentals": 6043.0
+  },
+  {
+    "RentalDate": "2011-07-05",
+    "Year": 0.0,
+    "TotalRentals": 4665.0
+  },
+  {
+    "RentalDate": "2011-07-06",
+    "Year": 0.0,
+    "TotalRentals": 4629.0
+  },
+  {
+    "RentalDate": "2011-07-07",
+    "Year": 0.0,
+    "TotalRentals": 4592.0
+  },
+  {
+    "RentalDate": "2011-07-08",
+    "Year": 0.0,
+    "TotalRentals": 4040.0
+  },
+  {
+    "RentalDate": "2011-07-09",
+    "Year": 0.0,
+    "TotalRentals": 5336.0
+  },
+  {
+    "RentalDate": "2011-07-10",
+    "Year": 0.0,
+    "TotalRentals": 4881.0
+  },
+  {
+    "RentalDate": "2011-07-11",
+    "Year": 0.0,
+    "TotalRentals": 4086.0
+  },
+  {
+    "RentalDate": "2011-07-12",
+    "Year": 0.0,
+    "TotalRentals": 4258.0
+  },
+  {
+    "RentalDate": "2011-07-13",
+    "Year": 0.0,
+    "TotalRentals": 4342.0
+  },
+  {
+    "RentalDate": "2011-07-14",
+    "Year": 0.0,
+    "TotalRentals": 5084.0
+  },
+  {
+    "RentalDate": "2011-07-15",
+    "Year": 0.0,
+    "TotalRentals": 5538.0
+  },
+  {
+    "RentalDate": "2011-07-16",
+    "Year": 0.0,
+    "TotalRentals": 5923.0
+  },
+  {
+    "RentalDate": "2011-07-17",
+    "Year": 0.0,
+    "TotalRentals": 5302.0
+  },
+  {
+    "RentalDate": "2011-07-18",
+    "Year": 0.0,
+    "TotalRentals": 4458.0
+  },
+  {
+    "RentalDate": "2011-07-19",
+    "Year": 0.0,
+    "TotalRentals": 4541.0
+  },
+  {
+    "RentalDate": "2011-07-20",
+    "Year": 0.0,
+    "TotalRentals": 4332.0
+  },
+  {
+    "RentalDate": "2011-07-21",
+    "Year": 0.0,
+    "TotalRentals": 3784.0
+  },
+  {
+    "RentalDate": "2011-07-22",
+    "Year": 0.0,
+    "TotalRentals": 3387.0
+  },
+  {
+    "RentalDate": "2011-07-23",
+    "Year": 0.0,
+    "TotalRentals": 3285.0
+  },
+  {
+    "RentalDate": "2011-07-24",
+    "Year": 0.0,
+    "TotalRentals": 3606.0
+  },
+  {
+    "RentalDate": "2011-07-25",
+    "Year": 0.0,
+    "TotalRentals": 3840.0
+  },
+  {
+    "RentalDate": "2011-07-26",
+    "Year": 0.0,
+    "TotalRentals": 4590.0
+  },
+  {
+    "RentalDate": "2011-07-27",
+    "Year": 0.0,
+    "TotalRentals": 4656.0
+  },
+  {
+    "RentalDate": "2011-07-28",
+    "Year": 0.0,
+    "TotalRentals": 4390.0
+  },
+  {
+    "RentalDate": "2011-07-29",
+    "Year": 0.0,
+    "TotalRentals": 3846.0
+  },
+  {
+    "RentalDate": "2011-07-30",
+    "Year": 0.0,
+    "TotalRentals": 4475.0
+  },
+  {
+    "RentalDate": "2011-07-31",
+    "Year": 0.0,
+    "TotalRentals": 4302.0
+  },
+  {
+    "RentalDate": "2011-08-01",
+    "Year": 0.0,
+    "TotalRentals": 4266.0
+  },
+  {
+    "RentalDate": "2011-08-02",
+    "Year": 0.0,
+    "TotalRentals": 4845.0
+  },
+  {
+    "RentalDate": "2011-08-03",
+    "Year": 0.0,
+    "TotalRentals": 3574.0
+  },
+  {
+    "RentalDate": "2011-08-04",
+    "Year": 0.0,
+    "TotalRentals": 4576.0
+  },
+  {
+    "RentalDate": "2011-08-05",
+    "Year": 0.0,
+    "TotalRentals": 4866.0
+  },
+  {
+    "RentalDate": "2011-08-06",
+    "Year": 0.0,
+    "TotalRentals": 4294.0
+  },
+  {
+    "RentalDate": "2011-08-07",
+    "Year": 0.0,
+    "TotalRentals": 3785.0
+  },
+  {
+    "RentalDate": "2011-08-08",
+    "Year": 0.0,
+    "TotalRentals": 4326.0
+  },
+  {
+    "RentalDate": "2011-08-09",
+    "Year": 0.0,
+    "TotalRentals": 4602.0
+  },
+  {
+    "RentalDate": "2011-08-10",
+    "Year": 0.0,
+    "TotalRentals": 4780.0
+  },
+  {
+    "RentalDate": "2011-08-11",
+    "Year": 0.0,
+    "TotalRentals": 4792.0
+  },
+  {
+    "RentalDate": "2011-08-12",
+    "Year": 0.0,
+    "TotalRentals": 4905.0
+  },
+  {
+    "RentalDate": "2011-08-13",
+    "Year": 0.0,
+    "TotalRentals": 4150.0
+  },
+  {
+    "RentalDate": "2011-08-14",
+    "Year": 0.0,
+    "TotalRentals": 3820.0
+  },
+  {
+    "RentalDate": "2011-08-15",
+    "Year": 0.0,
+    "TotalRentals": 4338.0
+  },
+  {
+    "RentalDate": "2011-08-16",
+    "Year": 0.0,
+    "TotalRentals": 4725.0
+  },
+  {
+    "RentalDate": "2011-08-17",
+    "Year": 0.0,
+    "TotalRentals": 4694.0
+  },
+  {
+    "RentalDate": "2011-08-18",
+    "Year": 0.0,
+    "TotalRentals": 3805.0
+  },
+  {
+    "RentalDate": "2011-08-19",
+    "Year": 0.0,
+    "TotalRentals": 4153.0
+  },
+  {
+    "RentalDate": "2011-08-20",
+    "Year": 0.0,
+    "TotalRentals": 5191.0
+  },
+  {
+    "RentalDate": "2011-08-21",
+    "Year": 0.0,
+    "TotalRentals": 3873.0
+  },
+  {
+    "RentalDate": "2011-08-22",
+    "Year": 0.0,
+    "TotalRentals": 4758.0
+  },
+  {
+    "RentalDate": "2011-08-23",
+    "Year": 0.0,
+    "TotalRentals": 5895.0
+  },
+  {
+    "RentalDate": "2011-08-24",
+    "Year": 0.0,
+    "TotalRentals": 5130.0
+  },
+  {
+    "RentalDate": "2011-08-25",
+    "Year": 0.0,
+    "TotalRentals": 3542.0
+  },
+  {
+    "RentalDate": "2011-08-26",
+    "Year": 0.0,
+    "TotalRentals": 4661.0
+  },
+  {
+    "RentalDate": "2011-08-27",
+    "Year": 0.0,
+    "TotalRentals": 1115.0
+  },
+  {
+    "RentalDate": "2011-08-28",
+    "Year": 0.0,
+    "TotalRentals": 4334.0
+  },
+  {
+    "RentalDate": "2011-08-29",
+    "Year": 0.0,
+    "TotalRentals": 4634.0
+  },
+  {
+    "RentalDate": "2011-08-30",
+    "Year": 0.0,
+    "TotalRentals": 5204.0
+  },
+  {
+    "RentalDate": "2011-08-31",
+    "Year": 0.0,
+    "TotalRentals": 5058.0
+  },
+  {
+    "RentalDate": "2011-09-01",
+    "Year": 0.0,
+    "TotalRentals": 5115.0
+  },
+  {
+    "RentalDate": "2011-09-02",
+    "Year": 0.0,
+    "TotalRentals": 4727.0
+  },
+  {
+    "RentalDate": "2011-09-03",
+    "Year": 0.0,
+    "TotalRentals": 4484.0
+  },
+  {
+    "RentalDate": "2011-09-04",
+    "Year": 0.0,
+    "TotalRentals": 4940.0
+  },
+  {
+    "RentalDate": "2011-09-05",
+    "Year": 0.0,
+    "TotalRentals": 3351.0
+  },
+  {
+    "RentalDate": "2011-09-06",
+    "Year": 0.0,
+    "TotalRentals": 2710.0
+  },
+  {
+    "RentalDate": "2011-09-07",
+    "Year": 0.0,
+    "TotalRentals": 1996.0
+  },
+  {
+    "RentalDate": "2011-09-08",
+    "Year": 0.0,
+    "TotalRentals": 1842.0
+  },
+  {
+    "RentalDate": "2011-09-09",
+    "Year": 0.0,
+    "TotalRentals": 3544.0
+  },
+  {
+    "RentalDate": "2011-09-10",
+    "Year": 0.0,
+    "TotalRentals": 5345.0
+  },
+  {
+    "RentalDate": "2011-09-11",
+    "Year": 0.0,
+    "TotalRentals": 5046.0
+  },
+  {
+    "RentalDate": "2011-09-12",
+    "Year": 0.0,
+    "TotalRentals": 4713.0
+  },
+  {
+    "RentalDate": "2011-09-13",
+    "Year": 0.0,
+    "TotalRentals": 4763.0
+  },
+  {
+    "RentalDate": "2011-09-14",
+    "Year": 0.0,
+    "TotalRentals": 4785.0
+  },
+  {
+    "RentalDate": "2011-09-15",
+    "Year": 0.0,
+    "TotalRentals": 3659.0
+  },
+  {
+    "RentalDate": "2011-09-16",
+    "Year": 0.0,
+    "TotalRentals": 4760.0
+  },
+  {
+    "RentalDate": "2011-09-17",
+    "Year": 0.0,
+    "TotalRentals": 4511.0
+  },
+  {
+    "RentalDate": "2011-09-18",
+    "Year": 0.0,
+    "TotalRentals": 4274.0
+  },
+  {
+    "RentalDate": "2011-09-19",
+    "Year": 0.0,
+    "TotalRentals": 4539.0
+  },
+  {
+    "RentalDate": "2011-09-20",
+    "Year": 0.0,
+    "TotalRentals": 3641.0
+  },
+  {
+    "RentalDate": "2011-09-21",
+    "Year": 0.0,
+    "TotalRentals": 4352.0
+  },
+  {
+    "RentalDate": "2011-09-22",
+    "Year": 0.0,
+    "TotalRentals": 4795.0
+  },
+  {
+    "RentalDate": "2011-09-23",
+    "Year": 0.0,
+    "TotalRentals": 2395.0
+  },
+  {
+    "RentalDate": "2011-09-24",
+    "Year": 0.0,
+    "TotalRentals": 5423.0
+  },
+  {
+    "RentalDate": "2011-09-25",
+    "Year": 0.0,
+    "TotalRentals": 5010.0
+  },
+  {
+    "RentalDate": "2011-09-26",
+    "Year": 0.0,
+    "TotalRentals": 4630.0
+  },
+  {
+    "RentalDate": "2011-09-27",
+    "Year": 0.0,
+    "TotalRentals": 4120.0
+  },
+  {
+    "RentalDate": "2011-09-28",
+    "Year": 0.0,
+    "TotalRentals": 3907.0
+  },
+  {
+    "RentalDate": "2011-09-29",
+    "Year": 0.0,
+    "TotalRentals": 4839.0
+  },
+  {
+    "RentalDate": "2011-09-30",
+    "Year": 0.0,
+    "TotalRentals": 5202.0
+  },
+  {
+    "RentalDate": "2011-10-01",
+    "Year": 0.0,
+    "TotalRentals": 2429.0
+  },
+  {
+    "RentalDate": "2011-10-02",
+    "Year": 0.0,
+    "TotalRentals": 2918.0
+  },
+  {
+    "RentalDate": "2011-10-03",
+    "Year": 0.0,
+    "TotalRentals": 3570.0
+  },
+  {
+    "RentalDate": "2011-10-04",
+    "Year": 0.0,
+    "TotalRentals": 4456.0
+  },
+  {
+    "RentalDate": "2011-10-05",
+    "Year": 0.0,
+    "TotalRentals": 4826.0
+  },
+  {
+    "RentalDate": "2011-10-06",
+    "Year": 0.0,
+    "TotalRentals": 4765.0
+  },
+  {
+    "RentalDate": "2011-10-07",
+    "Year": 0.0,
+    "TotalRentals": 4985.0
+  },
+  {
+    "RentalDate": "2011-10-08",
+    "Year": 0.0,
+    "TotalRentals": 5409.0
+  },
+  {
+    "RentalDate": "2011-10-09",
+    "Year": 0.0,
+    "TotalRentals": 5511.0
+  },
+  {
+    "RentalDate": "2011-10-10",
+    "Year": 0.0,
+    "TotalRentals": 5117.0
+  },
+  {
+    "RentalDate": "2011-10-11",
+    "Year": 0.0,
+    "TotalRentals": 4563.0
+  },
+  {
+    "RentalDate": "2011-10-12",
+    "Year": 0.0,
+    "TotalRentals": 2416.0
+  },
+  {
+    "RentalDate": "2011-10-13",
+    "Year": 0.0,
+    "TotalRentals": 2913.0
+  },
+  {
+    "RentalDate": "2011-10-14",
+    "Year": 0.0,
+    "TotalRentals": 3644.0
+  },
+  {
+    "RentalDate": "2011-10-15",
+    "Year": 0.0,
+    "TotalRentals": 5217.0
+  },
+  {
+    "RentalDate": "2011-10-16",
+    "Year": 0.0,
+    "TotalRentals": 5041.0
+  },
+  {
+    "RentalDate": "2011-10-17",
+    "Year": 0.0,
+    "TotalRentals": 4570.0
+  },
+  {
+    "RentalDate": "2011-10-18",
+    "Year": 0.0,
+    "TotalRentals": 4748.0
+  },
+  {
+    "RentalDate": "2011-10-19",
+    "Year": 0.0,
+    "TotalRentals": 2424.0
+  },
+  {
+    "RentalDate": "2011-10-20",
+    "Year": 0.0,
+    "TotalRentals": 4195.0
+  },
+  {
+    "RentalDate": "2011-10-21",
+    "Year": 0.0,
+    "TotalRentals": 4304.0
+  },
+  {
+    "RentalDate": "2011-10-22",
+    "Year": 0.0,
+    "TotalRentals": 4308.0
+  },
+  {
+    "RentalDate": "2011-10-23",
+    "Year": 0.0,
+    "TotalRentals": 4381.0
+  },
+  {
+    "RentalDate": "2011-10-24",
+    "Year": 0.0,
+    "TotalRentals": 4187.0
+  },
+  {
+    "RentalDate": "2011-10-25",
+    "Year": 0.0,
+    "TotalRentals": 4687.0
+  },
+  {
+    "RentalDate": "2011-10-26",
+    "Year": 0.0,
+    "TotalRentals": 3894.0
+  },
+  {
+    "RentalDate": "2011-10-27",
+    "Year": 0.0,
+    "TotalRentals": 2659.0
+  },
+  {
+    "RentalDate": "2011-10-28",
+    "Year": 0.0,
+    "TotalRentals": 3747.0
+  },
+  {
+    "RentalDate": "2011-10-29",
+    "Year": 0.0,
+    "TotalRentals": 627.0
+  },
+  {
+    "RentalDate": "2011-10-30",
+    "Year": 0.0,
+    "TotalRentals": 3331.0
+  },
+  {
+    "RentalDate": "2011-10-31",
+    "Year": 0.0,
+    "TotalRentals": 3669.0
+  },
+  {
+    "RentalDate": "2011-11-01",
+    "Year": 0.0,
+    "TotalRentals": 4068.0
+  },
+  {
+    "RentalDate": "2011-11-02",
+    "Year": 0.0,
+    "TotalRentals": 4186.0
+  },
+  {
+    "RentalDate": "2011-11-03",
+    "Year": 0.0,
+    "TotalRentals": 3974.0
+  },
+  {
+    "RentalDate": "2011-11-04",
+    "Year": 0.0,
+    "TotalRentals": 4046.0
+  },
+  {
+    "RentalDate": "2011-11-05",
+    "Year": 0.0,
+    "TotalRentals": 3926.0
+  },
+  {
+    "RentalDate": "2011-11-06",
+    "Year": 0.0,
+    "TotalRentals": 3649.0
+  },
+  {
+    "RentalDate": "2011-11-07",
+    "Year": 0.0,
+    "TotalRentals": 4035.0
+  },
+  {
+    "RentalDate": "2011-11-08",
+    "Year": 0.0,
+    "TotalRentals": 4205.0
+  },
+  {
+    "RentalDate": "2011-11-09",
+    "Year": 0.0,
+    "TotalRentals": 4109.0
+  },
+  {
+    "RentalDate": "2011-11-10",
+    "Year": 0.0,
+    "TotalRentals": 2933.0
+  },
+  {
+    "RentalDate": "2011-11-11",
+    "Year": 0.0,
+    "TotalRentals": 3368.0
+  },
+  {
+    "RentalDate": "2011-11-12",
+    "Year": 0.0,
+    "TotalRentals": 4067.0
+  },
+  {
+    "RentalDate": "2011-11-13",
+    "Year": 0.0,
+    "TotalRentals": 3717.0
+  },
+  {
+    "RentalDate": "2011-11-14",
+    "Year": 0.0,
+    "TotalRentals": 4486.0
+  },
+  {
+    "RentalDate": "2011-11-15",
+    "Year": 0.0,
+    "TotalRentals": 4195.0
+  },
+  {
+    "RentalDate": "2011-11-16",
+    "Year": 0.0,
+    "TotalRentals": 1817.0
+  },
+  {
+    "RentalDate": "2011-11-17",
+    "Year": 0.0,
+    "TotalRentals": 3053.0
+  },
+  {
+    "RentalDate": "2011-11-18",
+    "Year": 0.0,
+    "TotalRentals": 3392.0
+  },
+  {
+    "RentalDate": "2011-11-19",
+    "Year": 0.0,
+    "TotalRentals": 3663.0
+  },
+  {
+    "RentalDate": "2011-11-20",
+    "Year": 0.0,
+    "TotalRentals": 3520.0
+  },
+  {
+    "RentalDate": "2011-11-21",
+    "Year": 0.0,
+    "TotalRentals": 2765.0
+  },
+  {
+    "RentalDate": "2011-11-22",
+    "Year": 0.0,
+    "TotalRentals": 1607.0
+  },
+  {
+    "RentalDate": "2011-11-23",
+    "Year": 0.0,
+    "TotalRentals": 2566.0
+  },
+  {
+    "RentalDate": "2011-11-24",
+    "Year": 0.0,
+    "TotalRentals": 1495.0
+  },
+  {
+    "RentalDate": "2011-11-25",
+    "Year": 0.0,
+    "TotalRentals": 2792.0
+  },
+  {
+    "RentalDate": "2011-11-26",
+    "Year": 0.0,
+    "TotalRentals": 3068.0
+  },
+  {
+    "RentalDate": "2011-11-27",
+    "Year": 0.0,
+    "TotalRentals": 3071.0
+  },
+  {
+    "RentalDate": "2011-11-28",
+    "Year": 0.0,
+    "TotalRentals": 3867.0
+  },
+  {
+    "RentalDate": "2011-11-29",
+    "Year": 0.0,
+    "TotalRentals": 2914.0
+  },
+  {
+    "RentalDate": "2011-11-30",
+    "Year": 0.0,
+    "TotalRentals": 3613.0
+  },
+  {
+    "RentalDate": "2011-12-01",
+    "Year": 0.0,
+    "TotalRentals": 3727.0
+  },
+  {
+    "RentalDate": "2011-12-02",
+    "Year": 0.0,
+    "TotalRentals": 3940.0
+  },
+  {
+    "RentalDate": "2011-12-03",
+    "Year": 0.0,
+    "TotalRentals": 3614.0
+  },
+  {
+    "RentalDate": "2011-12-04",
+    "Year": 0.0,
+    "TotalRentals": 3485.0
+  },
+  {
+    "RentalDate": "2011-12-05",
+    "Year": 0.0,
+    "TotalRentals": 3811.0
+  },
+  {
+    "RentalDate": "2011-12-06",
+    "Year": 0.0,
+    "TotalRentals": 2594.0
+  },
+  {
+    "RentalDate": "2011-12-07",
+    "Year": 0.0,
+    "TotalRentals": 705.0
+  },
+  {
+    "RentalDate": "2011-12-08",
+    "Year": 0.0,
+    "TotalRentals": 3322.0
+  },
+  {
+    "RentalDate": "2011-12-09",
+    "Year": 0.0,
+    "TotalRentals": 3620.0
+  },
+  {
+    "RentalDate": "2011-12-10",
+    "Year": 0.0,
+    "TotalRentals": 3190.0
+  },
+  {
+    "RentalDate": "2011-12-11",
+    "Year": 0.0,
+    "TotalRentals": 2743.0
+  },
+  {
+    "RentalDate": "2011-12-12",
+    "Year": 0.0,
+    "TotalRentals": 3310.0
+  },
+  {
+    "RentalDate": "2011-12-13",
+    "Year": 0.0,
+    "TotalRentals": 3523.0
+  },
+  {
+    "RentalDate": "2011-12-14",
+    "Year": 0.0,
+    "TotalRentals": 3740.0
+  },
+  {
+    "RentalDate": "2011-12-15",
+    "Year": 0.0,
+    "TotalRentals": 3709.0
+  },
+  {
+    "RentalDate": "2011-12-16",
+    "Year": 0.0,
+    "TotalRentals": 3577.0
+  },
+  {
+    "RentalDate": "2011-12-17",
+    "Year": 0.0,
+    "TotalRentals": 2739.0
+  },
+  {
+    "RentalDate": "2011-12-18",
+    "Year": 0.0,
+    "TotalRentals": 2431.0
+  },
+  {
+    "RentalDate": "2011-12-19",
+    "Year": 0.0,
+    "TotalRentals": 3403.0
+  },
+  {
+    "RentalDate": "2011-12-20",
+    "Year": 0.0,
+    "TotalRentals": 3750.0
+  },
+  {
+    "RentalDate": "2011-12-21",
+    "Year": 0.0,
+    "TotalRentals": 2660.0
+  },
+  {
+    "RentalDate": "2011-12-22",
+    "Year": 0.0,
+    "TotalRentals": 3068.0
+  },
+  {
+    "RentalDate": "2011-12-23",
+    "Year": 0.0,
+    "TotalRentals": 2209.0
+  },
+  {
+    "RentalDate": "2011-12-24",
+    "Year": 0.0,
+    "TotalRentals": 1011.0
+  },
+  {
+    "RentalDate": "2011-12-25",
+    "Year": 0.0,
+    "TotalRentals": 754.0
+  },
+  {
+    "RentalDate": "2011-12-26",
+    "Year": 0.0,
+    "TotalRentals": 1317.0
+  },
+  {
+    "RentalDate": "2011-12-27",
+    "Year": 0.0,
+    "TotalRentals": 1162.0
+  },
+  {
+    "RentalDate": "2011-12-28",
+    "Year": 0.0,
+    "TotalRentals": 2302.0
+  },
+  {
+    "RentalDate": "2011-12-29",
+    "Year": 0.0,
+    "TotalRentals": 2423.0
+  },
+  {
+    "RentalDate": "2011-12-30",
+    "Year": 0.0,
+    "TotalRentals": 2999.0
+  },
+  {
+    "RentalDate": "2011-12-31",
+    "Year": 0.0,
+    "TotalRentals": 2485.0
+  },
+  {
+    "RentalDate": "2012-01-01",
+    "Year": 1.0,
+    "TotalRentals": 2294.0
+  },
+  {
+    "RentalDate": "2012-01-02",
+    "Year": 1.0,
+    "TotalRentals": 1951.0
+  },
+  {
+    "RentalDate": "2012-01-03",
+    "Year": 1.0,
+    "TotalRentals": 2236.0
+  },
+  {
+    "RentalDate": "2012-01-04",
+    "Year": 1.0,
+    "TotalRentals": 2368.0
+  },
+  {
+    "RentalDate": "2012-01-05",
+    "Year": 1.0,
+    "TotalRentals": 3272.0
+  },
+  {
+    "RentalDate": "2012-01-06",
+    "Year": 1.0,
+    "TotalRentals": 4098.0
+  },
+  {
+    "RentalDate": "2012-01-07",
+    "Year": 1.0,
+    "TotalRentals": 4521.0
+  },
+  {
+    "RentalDate": "2012-01-08",
+    "Year": 1.0,
+    "TotalRentals": 3425.0
+  },
+  {
+    "RentalDate": "2012-01-09",
+    "Year": 1.0,
+    "TotalRentals": 2376.0
+  },
+  {
+    "RentalDate": "2012-01-10",
+    "Year": 1.0,
+    "TotalRentals": 3598.0
+  },
+  {
+    "RentalDate": "2012-01-11",
+    "Year": 1.0,
+    "TotalRentals": 2177.0
+  },
+  {
+    "RentalDate": "2012-01-12",
+    "Year": 1.0,
+    "TotalRentals": 4097.0
+  },
+  {
+    "RentalDate": "2012-01-13",
+    "Year": 1.0,
+    "TotalRentals": 3214.0
+  },
+  {
+    "RentalDate": "2012-01-14",
+    "Year": 1.0,
+    "TotalRentals": 2493.0
+  },
+  {
+    "RentalDate": "2012-01-15",
+    "Year": 1.0,
+    "TotalRentals": 2311.0
+  },
+  {
+    "RentalDate": "2012-01-16",
+    "Year": 1.0,
+    "TotalRentals": 2298.0
+  },
+  {
+    "RentalDate": "2012-01-17",
+    "Year": 1.0,
+    "TotalRentals": 2935.0
+  },
+  {
+    "RentalDate": "2012-01-18",
+    "Year": 1.0,
+    "TotalRentals": 3376.0
+  },
+  {
+    "RentalDate": "2012-01-19",
+    "Year": 1.0,
+    "TotalRentals": 3292.0
+  },
+  {
+    "RentalDate": "2012-01-20",
+    "Year": 1.0,
+    "TotalRentals": 3163.0
+  },
+  {
+    "RentalDate": "2012-01-21",
+    "Year": 1.0,
+    "TotalRentals": 1301.0
+  },
+  {
+    "RentalDate": "2012-01-22",
+    "Year": 1.0,
+    "TotalRentals": 1977.0
+  },
+  {
+    "RentalDate": "2012-01-23",
+    "Year": 1.0,
+    "TotalRentals": 2432.0
+  },
+  {
+    "RentalDate": "2012-01-24",
+    "Year": 1.0,
+    "TotalRentals": 4339.0
+  },
+  {
+    "RentalDate": "2012-01-25",
+    "Year": 1.0,
+    "TotalRentals": 4270.0
+  },
+  {
+    "RentalDate": "2012-01-26",
+    "Year": 1.0,
+    "TotalRentals": 4075.0
+  },
+  {
+    "RentalDate": "2012-01-27",
+    "Year": 1.0,
+    "TotalRentals": 3456.0
+  },
+  {
+    "RentalDate": "2012-01-28",
+    "Year": 1.0,
+    "TotalRentals": 4023.0
+  },
+  {
+    "RentalDate": "2012-01-29",
+    "Year": 1.0,
+    "TotalRentals": 3243.0
+  },
+  {
+    "RentalDate": "2012-01-30",
+    "Year": 1.0,
+    "TotalRentals": 3624.0
+  },
+  {
+    "RentalDate": "2012-01-31",
+    "Year": 1.0,
+    "TotalRentals": 4509.0
+  },
+  {
+    "RentalDate": "2012-02-01",
+    "Year": 1.0,
+    "TotalRentals": 4579.0
+  },
+  {
+    "RentalDate": "2012-02-02",
+    "Year": 1.0,
+    "TotalRentals": 3761.0
+  },
+  {
+    "RentalDate": "2012-02-03",
+    "Year": 1.0,
+    "TotalRentals": 4151.0
+  },
+  {
+    "RentalDate": "2012-02-04",
+    "Year": 1.0,
+    "TotalRentals": 2832.0
+  },
+  {
+    "RentalDate": "2012-02-05",
+    "Year": 1.0,
+    "TotalRentals": 2947.0
+  },
+  {
+    "RentalDate": "2012-02-06",
+    "Year": 1.0,
+    "TotalRentals": 3784.0
+  },
+  {
+    "RentalDate": "2012-02-07",
+    "Year": 1.0,
+    "TotalRentals": 4375.0
+  },
+  {
+    "RentalDate": "2012-02-08",
+    "Year": 1.0,
+    "TotalRentals": 2802.0
+  },
+  {
+    "RentalDate": "2012-02-09",
+    "Year": 1.0,
+    "TotalRentals": 3830.0
+  },
+  {
+    "RentalDate": "2012-02-10",
+    "Year": 1.0,
+    "TotalRentals": 3831.0
+  },
+  {
+    "RentalDate": "2012-02-11",
+    "Year": 1.0,
+    "TotalRentals": 2169.0
+  },
+  {
+    "RentalDate": "2012-02-12",
+    "Year": 1.0,
+    "TotalRentals": 1529.0
+  },
+  {
+    "RentalDate": "2012-02-13",
+    "Year": 1.0,
+    "TotalRentals": 3422.0
+  },
+  {
+    "RentalDate": "2012-02-14",
+    "Year": 1.0,
+    "TotalRentals": 3922.0
+  },
+  {
+    "RentalDate": "2012-02-15",
+    "Year": 1.0,
+    "TotalRentals": 4169.0
+  },
+  {
+    "RentalDate": "2012-02-16",
+    "Year": 1.0,
+    "TotalRentals": 3005.0
+  },
+  {
+    "RentalDate": "2012-02-17",
+    "Year": 1.0,
+    "TotalRentals": 4154.0
+  },
+  {
+    "RentalDate": "2012-02-18",
+    "Year": 1.0,
+    "TotalRentals": 4318.0
+  },
+  {
+    "RentalDate": "2012-02-19",
+    "Year": 1.0,
+    "TotalRentals": 2689.0
+  },
+  {
+    "RentalDate": "2012-02-20",
+    "Year": 1.0,
+    "TotalRentals": 3129.0
+  },
+  {
+    "RentalDate": "2012-02-21",
+    "Year": 1.0,
+    "TotalRentals": 3777.0
+  },
+  {
+    "RentalDate": "2012-02-22",
+    "Year": 1.0,
+    "TotalRentals": 4773.0
+  },
+  {
+    "RentalDate": "2012-02-23",
+    "Year": 1.0,
+    "TotalRentals": 5062.0
+  },
+  {
+    "RentalDate": "2012-02-24",
+    "Year": 1.0,
+    "TotalRentals": 3487.0
+  },
+  {
+    "RentalDate": "2012-02-25",
+    "Year": 1.0,
+    "TotalRentals": 2732.0
+  },
+  {
+    "RentalDate": "2012-02-26",
+    "Year": 1.0,
+    "TotalRentals": 3389.0
+  },
+  {
+    "RentalDate": "2012-02-27",
+    "Year": 1.0,
+    "TotalRentals": 4322.0
+  },
+  {
+    "RentalDate": "2012-02-28",
+    "Year": 1.0,
+    "TotalRentals": 4363.0
+  },
+  {
+    "RentalDate": "2012-02-29",
+    "Year": 1.0,
+    "TotalRentals": 1834.0
+  },
+  {
+    "RentalDate": "2012-03-01",
+    "Year": 1.0,
+    "TotalRentals": 4990.0
+  },
+  {
+    "RentalDate": "2012-03-02",
+    "Year": 1.0,
+    "TotalRentals": 3194.0
+  },
+  {
+    "RentalDate": "2012-03-03",
+    "Year": 1.0,
+    "TotalRentals": 4066.0
+  },
+  {
+    "RentalDate": "2012-03-04",
+    "Year": 1.0,
+    "TotalRentals": 3423.0
+  },
+  {
+    "RentalDate": "2012-03-05",
+    "Year": 1.0,
+    "TotalRentals": 3333.0
+  },
+  {
+    "RentalDate": "2012-03-06",
+    "Year": 1.0,
+    "TotalRentals": 3956.0
+  },
+  {
+    "RentalDate": "2012-03-07",
+    "Year": 1.0,
+    "TotalRentals": 4916.0
+  },
+  {
+    "RentalDate": "2012-03-08",
+    "Year": 1.0,
+    "TotalRentals": 5382.0
+  },
+  {
+    "RentalDate": "2012-03-09",
+    "Year": 1.0,
+    "TotalRentals": 4569.0
+  },
+  {
+    "RentalDate": "2012-03-10",
+    "Year": 1.0,
+    "TotalRentals": 4118.0
+  },
+  {
+    "RentalDate": "2012-03-11",
+    "Year": 1.0,
+    "TotalRentals": 4911.0
+  },
+  {
+    "RentalDate": "2012-03-12",
+    "Year": 1.0,
+    "TotalRentals": 5298.0
+  },
+  {
+    "RentalDate": "2012-03-13",
+    "Year": 1.0,
+    "TotalRentals": 5847.0
+  },
+  {
+    "RentalDate": "2012-03-14",
+    "Year": 1.0,
+    "TotalRentals": 6312.0
+  },
+  {
+    "RentalDate": "2012-03-15",
+    "Year": 1.0,
+    "TotalRentals": 6192.0
+  },
+  {
+    "RentalDate": "2012-03-16",
+    "Year": 1.0,
+    "TotalRentals": 4378.0
+  },
+  {
+    "RentalDate": "2012-03-17",
+    "Year": 1.0,
+    "TotalRentals": 7836.0
+  },
+  {
+    "RentalDate": "2012-03-18",
+    "Year": 1.0,
+    "TotalRentals": 5892.0
+  },
+  {
+    "RentalDate": "2012-03-19",
+    "Year": 1.0,
+    "TotalRentals": 6153.0
+  },
+  {
+    "RentalDate": "2012-03-20",
+    "Year": 1.0,
+    "TotalRentals": 6093.0
+  },
+  {
+    "RentalDate": "2012-03-21",
+    "Year": 1.0,
+    "TotalRentals": 6230.0
+  },
+  {
+    "RentalDate": "2012-03-22",
+    "Year": 1.0,
+    "TotalRentals": 6871.0
+  },
+  {
+    "RentalDate": "2012-03-23",
+    "Year": 1.0,
+    "TotalRentals": 8362.0
+  },
+  {
+    "RentalDate": "2012-03-24",
+    "Year": 1.0,
+    "TotalRentals": 3372.0
+  },
+  {
+    "RentalDate": "2012-03-25",
+    "Year": 1.0,
+    "TotalRentals": 4996.0
+  },
+  {
+    "RentalDate": "2012-03-26",
+    "Year": 1.0,
+    "TotalRentals": 5558.0
+  },
+  {
+    "RentalDate": "2012-03-27",
+    "Year": 1.0,
+    "TotalRentals": 5102.0
+  },
+  {
+    "RentalDate": "2012-03-28",
+    "Year": 1.0,
+    "TotalRentals": 5698.0
+  },
+  {
+    "RentalDate": "2012-03-29",
+    "Year": 1.0,
+    "TotalRentals": 6133.0
+  },
+  {
+    "RentalDate": "2012-03-30",
+    "Year": 1.0,
+    "TotalRentals": 5459.0
+  },
+  {
+    "RentalDate": "2012-03-31",
+    "Year": 1.0,
+    "TotalRentals": 6235.0
+  },
+  {
+    "RentalDate": "2012-04-01",
+    "Year": 1.0,
+    "TotalRentals": 6041.0
+  },
+  {
+    "RentalDate": "2012-04-02",
+    "Year": 1.0,
+    "TotalRentals": 5936.0
+  },
+  {
+    "RentalDate": "2012-04-03",
+    "Year": 1.0,
+    "TotalRentals": 6772.0
+  },
+  {
+    "RentalDate": "2012-04-04",
+    "Year": 1.0,
+    "TotalRentals": 6436.0
+  },
+  {
+    "RentalDate": "2012-04-05",
+    "Year": 1.0,
+    "TotalRentals": 6457.0
+  },
+  {
+    "RentalDate": "2012-04-06",
+    "Year": 1.0,
+    "TotalRentals": 6460.0
+  },
+  {
+    "RentalDate": "2012-04-07",
+    "Year": 1.0,
+    "TotalRentals": 6857.0
+  },
+  {
+    "RentalDate": "2012-04-08",
+    "Year": 1.0,
+    "TotalRentals": 5169.0
+  },
+  {
+    "RentalDate": "2012-04-09",
+    "Year": 1.0,
+    "TotalRentals": 5585.0
+  },
+  {
+    "RentalDate": "2012-04-10",
+    "Year": 1.0,
+    "TotalRentals": 5918.0
+  },
+  {
+    "RentalDate": "2012-04-11",
+    "Year": 1.0,
+    "TotalRentals": 4862.0
+  },
+  {
+    "RentalDate": "2012-04-12",
+    "Year": 1.0,
+    "TotalRentals": 5409.0
+  },
+  {
+    "RentalDate": "2012-04-13",
+    "Year": 1.0,
+    "TotalRentals": 6398.0
+  },
+  {
+    "RentalDate": "2012-04-14",
+    "Year": 1.0,
+    "TotalRentals": 7460.0
+  },
+  {
+    "RentalDate": "2012-04-15",
+    "Year": 1.0,
+    "TotalRentals": 7132.0
+  },
+  {
+    "RentalDate": "2012-04-16",
+    "Year": 1.0,
+    "TotalRentals": 6370.0
+  },
+  {
+    "RentalDate": "2012-04-17",
+    "Year": 1.0,
+    "TotalRentals": 6691.0
+  },
+  {
+    "RentalDate": "2012-04-18",
+    "Year": 1.0,
+    "TotalRentals": 4367.0
+  },
+  {
+    "RentalDate": "2012-04-19",
+    "Year": 1.0,
+    "TotalRentals": 6565.0
+  },
+  {
+    "RentalDate": "2012-04-20",
+    "Year": 1.0,
+    "TotalRentals": 7290.0
+  },
+  {
+    "RentalDate": "2012-04-21",
+    "Year": 1.0,
+    "TotalRentals": 6624.0
+  },
+  {
+    "RentalDate": "2012-04-22",
+    "Year": 1.0,
+    "TotalRentals": 1027.0
+  },
+  {
+    "RentalDate": "2012-04-23",
+    "Year": 1.0,
+    "TotalRentals": 3214.0
+  },
+  {
+    "RentalDate": "2012-04-24",
+    "Year": 1.0,
+    "TotalRentals": 5633.0
+  },
+  {
+    "RentalDate": "2012-04-25",
+    "Year": 1.0,
+    "TotalRentals": 6196.0
+  },
+  {
+    "RentalDate": "2012-04-26",
+    "Year": 1.0,
+    "TotalRentals": 5026.0
+  },
+  {
+    "RentalDate": "2012-04-27",
+    "Year": 1.0,
+    "TotalRentals": 6233.0
+  },
+  {
+    "RentalDate": "2012-04-28",
+    "Year": 1.0,
+    "TotalRentals": 4220.0
+  },
+  {
+    "RentalDate": "2012-04-29",
+    "Year": 1.0,
+    "TotalRentals": 6304.0
+  },
+  {
+    "RentalDate": "2012-04-30",
+    "Year": 1.0,
+    "TotalRentals": 5572.0
+  },
+  {
+    "RentalDate": "2012-05-01",
+    "Year": 1.0,
+    "TotalRentals": 5740.0
+  },
+  {
+    "RentalDate": "2012-05-02",
+    "Year": 1.0,
+    "TotalRentals": 6169.0
+  },
+  {
+    "RentalDate": "2012-05-03",
+    "Year": 1.0,
+    "TotalRentals": 6421.0
+  },
+  {
+    "RentalDate": "2012-05-04",
+    "Year": 1.0,
+    "TotalRentals": 6296.0
+  },
+  {
+    "RentalDate": "2012-05-05",
+    "Year": 1.0,
+    "TotalRentals": 6883.0
+  },
+  {
+    "RentalDate": "2012-05-06",
+    "Year": 1.0,
+    "TotalRentals": 6359.0
+  },
+  {
+    "RentalDate": "2012-05-07",
+    "Year": 1.0,
+    "TotalRentals": 6273.0
+  },
+  {
+    "RentalDate": "2012-05-08",
+    "Year": 1.0,
+    "TotalRentals": 5728.0
+  },
+  {
+    "RentalDate": "2012-05-09",
+    "Year": 1.0,
+    "TotalRentals": 4717.0
+  },
+  {
+    "RentalDate": "2012-05-10",
+    "Year": 1.0,
+    "TotalRentals": 6572.0
+  },
+  {
+    "RentalDate": "2012-05-11",
+    "Year": 1.0,
+    "TotalRentals": 7030.0
+  },
+  {
+    "RentalDate": "2012-05-12",
+    "Year": 1.0,
+    "TotalRentals": 7429.0
+  },
+  {
+    "RentalDate": "2012-05-13",
+    "Year": 1.0,
+    "TotalRentals": 6118.0
+  },
+  {
+    "RentalDate": "2012-05-14",
+    "Year": 1.0,
+    "TotalRentals": 2843.0
+  },
+  {
+    "RentalDate": "2012-05-15",
+    "Year": 1.0,
+    "TotalRentals": 5115.0
+  },
+  {
+    "RentalDate": "2012-05-16",
+    "Year": 1.0,
+    "TotalRentals": 7424.0
+  },
+  {
+    "RentalDate": "2012-05-17",
+    "Year": 1.0,
+    "TotalRentals": 7384.0
+  },
+  {
+    "RentalDate": "2012-05-18",
+    "Year": 1.0,
+    "TotalRentals": 7639.0
+  },
+  {
+    "RentalDate": "2012-05-19",
+    "Year": 1.0,
+    "TotalRentals": 8294.0
+  },
+  {
+    "RentalDate": "2012-05-20",
+    "Year": 1.0,
+    "TotalRentals": 7129.0
+  },
+  {
+    "RentalDate": "2012-05-21",
+    "Year": 1.0,
+    "TotalRentals": 4359.0
+  },
+  {
+    "RentalDate": "2012-05-22",
+    "Year": 1.0,
+    "TotalRentals": 6073.0
+  },
+  {
+    "RentalDate": "2012-05-23",
+    "Year": 1.0,
+    "TotalRentals": 5260.0
+  },
+  {
+    "RentalDate": "2012-05-24",
+    "Year": 1.0,
+    "TotalRentals": 6770.0
+  },
+  {
+    "RentalDate": "2012-05-25",
+    "Year": 1.0,
+    "TotalRentals": 6734.0
+  },
+  {
+    "RentalDate": "2012-05-26",
+    "Year": 1.0,
+    "TotalRentals": 6536.0
+  },
+  {
+    "RentalDate": "2012-05-27",
+    "Year": 1.0,
+    "TotalRentals": 6591.0
+  },
+  {
+    "RentalDate": "2012-05-28",
+    "Year": 1.0,
+    "TotalRentals": 6043.0
+  },
+  {
+    "RentalDate": "2012-05-29",
+    "Year": 1.0,
+    "TotalRentals": 5743.0
+  },
+  {
+    "RentalDate": "2012-05-30",
+    "Year": 1.0,
+    "TotalRentals": 6855.0
+  },
+  {
+    "RentalDate": "2012-05-31",
+    "Year": 1.0,
+    "TotalRentals": 7338.0
+  },
+  {
+    "RentalDate": "2012-06-01",
+    "Year": 1.0,
+    "TotalRentals": 4127.0
+  },
+  {
+    "RentalDate": "2012-06-02",
+    "Year": 1.0,
+    "TotalRentals": 8120.0
+  },
+  {
+    "RentalDate": "2012-06-03",
+    "Year": 1.0,
+    "TotalRentals": 7641.0
+  },
+  {
+    "RentalDate": "2012-06-04",
+    "Year": 1.0,
+    "TotalRentals": 6998.0
+  },
+  {
+    "RentalDate": "2012-06-05",
+    "Year": 1.0,
+    "TotalRentals": 7001.0
+  },
+  {
+    "RentalDate": "2012-06-06",
+    "Year": 1.0,
+    "TotalRentals": 7055.0
+  },
+  {
+    "RentalDate": "2012-06-07",
+    "Year": 1.0,
+    "TotalRentals": 7494.0
+  },
+  {
+    "RentalDate": "2012-06-08",
+    "Year": 1.0,
+    "TotalRentals": 7736.0
+  },
+  {
+    "RentalDate": "2012-06-09",
+    "Year": 1.0,
+    "TotalRentals": 7498.0
+  },
+  {
+    "RentalDate": "2012-06-10",
+    "Year": 1.0,
+    "TotalRentals": 6598.0
+  },
+  {
+    "RentalDate": "2012-06-11",
+    "Year": 1.0,
+    "TotalRentals": 6664.0
+  },
+  {
+    "RentalDate": "2012-06-12",
+    "Year": 1.0,
+    "TotalRentals": 4972.0
+  },
+  {
+    "RentalDate": "2012-06-13",
+    "Year": 1.0,
+    "TotalRentals": 7421.0
+  },
+  {
+    "RentalDate": "2012-06-14",
+    "Year": 1.0,
+    "TotalRentals": 7363.0
+  },
+  {
+    "RentalDate": "2012-06-15",
+    "Year": 1.0,
+    "TotalRentals": 7665.0
+  },
+  {
+    "RentalDate": "2012-06-16",
+    "Year": 1.0,
+    "TotalRentals": 7702.0
+  },
+  {
+    "RentalDate": "2012-06-17",
+    "Year": 1.0,
+    "TotalRentals": 6978.0
+  },
+  {
+    "RentalDate": "2012-06-18",
+    "Year": 1.0,
+    "TotalRentals": 5099.0
+  },
+  {
+    "RentalDate": "2012-06-19",
+    "Year": 1.0,
+    "TotalRentals": 6825.0
+  },
+  {
+    "RentalDate": "2012-06-20",
+    "Year": 1.0,
+    "TotalRentals": 6211.0
+  },
+  {
+    "RentalDate": "2012-06-21",
+    "Year": 1.0,
+    "TotalRentals": 5905.0
+  },
+  {
+    "RentalDate": "2012-06-22",
+    "Year": 1.0,
+    "TotalRentals": 5823.0
+  },
+  {
+    "RentalDate": "2012-06-23",
+    "Year": 1.0,
+    "TotalRentals": 7458.0
+  },
+  {
+    "RentalDate": "2012-06-24",
+    "Year": 1.0,
+    "TotalRentals": 6891.0
+  },
+  {
+    "RentalDate": "2012-06-25",
+    "Year": 1.0,
+    "TotalRentals": 6779.0
+  },
+  {
+    "RentalDate": "2012-06-26",
+    "Year": 1.0,
+    "TotalRentals": 7442.0
+  },
+  {
+    "RentalDate": "2012-06-27",
+    "Year": 1.0,
+    "TotalRentals": 7335.0
+  },
+  {
+    "RentalDate": "2012-06-28",
+    "Year": 1.0,
+    "TotalRentals": 6879.0
+  },
+  {
+    "RentalDate": "2012-06-29",
+    "Year": 1.0,
+    "TotalRentals": 5463.0
+  },
+  {
+    "RentalDate": "2012-06-30",
+    "Year": 1.0,
+    "TotalRentals": 5687.0
+  },
+  {
+    "RentalDate": "2012-07-01",
+    "Year": 1.0,
+    "TotalRentals": 5531.0
+  },
+  {
+    "RentalDate": "2012-07-02",
+    "Year": 1.0,
+    "TotalRentals": 6227.0
+  },
+  {
+    "RentalDate": "2012-07-03",
+    "Year": 1.0,
+    "TotalRentals": 6660.0
+  },
+  {
+    "RentalDate": "2012-07-04",
+    "Year": 1.0,
+    "TotalRentals": 7403.0
+  },
+  {
+    "RentalDate": "2012-07-05",
+    "Year": 1.0,
+    "TotalRentals": 6241.0
+  },
+  {
+    "RentalDate": "2012-07-06",
+    "Year": 1.0,
+    "TotalRentals": 6207.0
+  },
+  {
+    "RentalDate": "2012-07-07",
+    "Year": 1.0,
+    "TotalRentals": 4840.0
+  },
+  {
+    "RentalDate": "2012-07-08",
+    "Year": 1.0,
+    "TotalRentals": 4672.0
+  },
+  {
+    "RentalDate": "2012-07-09",
+    "Year": 1.0,
+    "TotalRentals": 6569.0
+  },
+  {
+    "RentalDate": "2012-07-10",
+    "Year": 1.0,
+    "TotalRentals": 6290.0
+  },
+  {
+    "RentalDate": "2012-07-11",
+    "Year": 1.0,
+    "TotalRentals": 7264.0
+  },
+  {
+    "RentalDate": "2012-07-12",
+    "Year": 1.0,
+    "TotalRentals": 7446.0
+  },
+  {
+    "RentalDate": "2012-07-13",
+    "Year": 1.0,
+    "TotalRentals": 7499.0
+  },
+  {
+    "RentalDate": "2012-07-14",
+    "Year": 1.0,
+    "TotalRentals": 6969.0
+  },
+  {
+    "RentalDate": "2012-07-15",
+    "Year": 1.0,
+    "TotalRentals": 6031.0
+  },
+  {
+    "RentalDate": "2012-07-16",
+    "Year": 1.0,
+    "TotalRentals": 6830.0
+  },
+  {
+    "RentalDate": "2012-07-17",
+    "Year": 1.0,
+    "TotalRentals": 6786.0
+  },
+  {
+    "RentalDate": "2012-07-18",
+    "Year": 1.0,
+    "TotalRentals": 5713.0
+  },
+  {
+    "RentalDate": "2012-07-19",
+    "Year": 1.0,
+    "TotalRentals": 6591.0
+  },
+  {
+    "RentalDate": "2012-07-20",
+    "Year": 1.0,
+    "TotalRentals": 5870.0
+  },
+  {
+    "RentalDate": "2012-07-21",
+    "Year": 1.0,
+    "TotalRentals": 4459.0
+  },
+  {
+    "RentalDate": "2012-07-22",
+    "Year": 1.0,
+    "TotalRentals": 7410.0
+  },
+  {
+    "RentalDate": "2012-07-23",
+    "Year": 1.0,
+    "TotalRentals": 6966.0
+  },
+  {
+    "RentalDate": "2012-07-24",
+    "Year": 1.0,
+    "TotalRentals": 7592.0
+  },
+  {
+    "RentalDate": "2012-07-25",
+    "Year": 1.0,
+    "TotalRentals": 8173.0
+  },
+  {
+    "RentalDate": "2012-07-26",
+    "Year": 1.0,
+    "TotalRentals": 6861.0
+  },
+  {
+    "RentalDate": "2012-07-27",
+    "Year": 1.0,
+    "TotalRentals": 6904.0
+  },
+  {
+    "RentalDate": "2012-07-28",
+    "Year": 1.0,
+    "TotalRentals": 6685.0
+  },
+  {
+    "RentalDate": "2012-07-29",
+    "Year": 1.0,
+    "TotalRentals": 6597.0
+  },
+  {
+    "RentalDate": "2012-07-30",
+    "Year": 1.0,
+    "TotalRentals": 7105.0
+  },
+  {
+    "RentalDate": "2012-07-31",
+    "Year": 1.0,
+    "TotalRentals": 7216.0
+  },
+  {
+    "RentalDate": "2012-08-01",
+    "Year": 1.0,
+    "TotalRentals": 7580.0
+  },
+  {
+    "RentalDate": "2012-08-02",
+    "Year": 1.0,
+    "TotalRentals": 7261.0
+  },
+  {
+    "RentalDate": "2012-08-03",
+    "Year": 1.0,
+    "TotalRentals": 7175.0
+  },
+  {
+    "RentalDate": "2012-08-04",
+    "Year": 1.0,
+    "TotalRentals": 6824.0
+  },
+  {
+    "RentalDate": "2012-08-05",
+    "Year": 1.0,
+    "TotalRentals": 5464.0
+  },
+  {
+    "RentalDate": "2012-08-06",
+    "Year": 1.0,
+    "TotalRentals": 7013.0
+  },
+  {
+    "RentalDate": "2012-08-07",
+    "Year": 1.0,
+    "TotalRentals": 7273.0
+  },
+  {
+    "RentalDate": "2012-08-08",
+    "Year": 1.0,
+    "TotalRentals": 7534.0
+  },
+  {
+    "RentalDate": "2012-08-09",
+    "Year": 1.0,
+    "TotalRentals": 7286.0
+  },
+  {
+    "RentalDate": "2012-08-10",
+    "Year": 1.0,
+    "TotalRentals": 5786.0
+  },
+  {
+    "RentalDate": "2012-08-11",
+    "Year": 1.0,
+    "TotalRentals": 6299.0
+  },
+  {
+    "RentalDate": "2012-08-12",
+    "Year": 1.0,
+    "TotalRentals": 6544.0
+  },
+  {
+    "RentalDate": "2012-08-13",
+    "Year": 1.0,
+    "TotalRentals": 6883.0
+  },
+  {
+    "RentalDate": "2012-08-14",
+    "Year": 1.0,
+    "TotalRentals": 6784.0
+  },
+  {
+    "RentalDate": "2012-08-15",
+    "Year": 1.0,
+    "TotalRentals": 7347.0
+  },
+  {
+    "RentalDate": "2012-08-16",
+    "Year": 1.0,
+    "TotalRentals": 7605.0
+  },
+  {
+    "RentalDate": "2012-08-17",
+    "Year": 1.0,
+    "TotalRentals": 7148.0
+  },
+  {
+    "RentalDate": "2012-08-18",
+    "Year": 1.0,
+    "TotalRentals": 7865.0
+  },
+  {
+    "RentalDate": "2012-08-19",
+    "Year": 1.0,
+    "TotalRentals": 4549.0
+  },
+  {
+    "RentalDate": "2012-08-20",
+    "Year": 1.0,
+    "TotalRentals": 6530.0
+  },
+  {
+    "RentalDate": "2012-08-21",
+    "Year": 1.0,
+    "TotalRentals": 7006.0
+  },
+  {
+    "RentalDate": "2012-08-22",
+    "Year": 1.0,
+    "TotalRentals": 7375.0
+  },
+  {
+    "RentalDate": "2012-08-23",
+    "Year": 1.0,
+    "TotalRentals": 7765.0
+  },
+  {
+    "RentalDate": "2012-08-24",
+    "Year": 1.0,
+    "TotalRentals": 7582.0
+  },
+  {
+    "RentalDate": "2012-08-25",
+    "Year": 1.0,
+    "TotalRentals": 6053.0
+  },
+  {
+    "RentalDate": "2012-08-26",
+    "Year": 1.0,
+    "TotalRentals": 5255.0
+  },
+  {
+    "RentalDate": "2012-08-27",
+    "Year": 1.0,
+    "TotalRentals": 6917.0
+  },
+  {
+    "RentalDate": "2012-08-28",
+    "Year": 1.0,
+    "TotalRentals": 7040.0
+  },
+  {
+    "RentalDate": "2012-08-29",
+    "Year": 1.0,
+    "TotalRentals": 7697.0
+  },
+  {
+    "RentalDate": "2012-08-30",
+    "Year": 1.0,
+    "TotalRentals": 7713.0
+  },
+  {
+    "RentalDate": "2012-08-31",
+    "Year": 1.0,
+    "TotalRentals": 7350.0
+  },
+  {
+    "RentalDate": "2012-09-01",
+    "Year": 1.0,
+    "TotalRentals": 6140.0
+  },
+  {
+    "RentalDate": "2012-09-02",
+    "Year": 1.0,
+    "TotalRentals": 5810.0
+  },
+  {
+    "RentalDate": "2012-09-03",
+    "Year": 1.0,
+    "TotalRentals": 6034.0
+  },
+  {
+    "RentalDate": "2012-09-04",
+    "Year": 1.0,
+    "TotalRentals": 6864.0
+  },
+  {
+    "RentalDate": "2012-09-05",
+    "Year": 1.0,
+    "TotalRentals": 7112.0
+  },
+  {
+    "RentalDate": "2012-09-06",
+    "Year": 1.0,
+    "TotalRentals": 6203.0
+  },
+  {
+    "RentalDate": "2012-09-07",
+    "Year": 1.0,
+    "TotalRentals": 7504.0
+  },
+  {
+    "RentalDate": "2012-09-08",
+    "Year": 1.0,
+    "TotalRentals": 5976.0
+  },
+  {
+    "RentalDate": "2012-09-09",
+    "Year": 1.0,
+    "TotalRentals": 8227.0
+  },
+  {
+    "RentalDate": "2012-09-10",
+    "Year": 1.0,
+    "TotalRentals": 7525.0
+  },
+  {
+    "RentalDate": "2012-09-11",
+    "Year": 1.0,
+    "TotalRentals": 7767.0
+  },
+  {
+    "RentalDate": "2012-09-12",
+    "Year": 1.0,
+    "TotalRentals": 7870.0
+  },
+  {
+    "RentalDate": "2012-09-13",
+    "Year": 1.0,
+    "TotalRentals": 7804.0
+  },
+  {
+    "RentalDate": "2012-09-14",
+    "Year": 1.0,
+    "TotalRentals": 8009.0
+  },
+  {
+    "RentalDate": "2012-09-15",
+    "Year": 1.0,
+    "TotalRentals": 8714.0
+  },
+  {
+    "RentalDate": "2012-09-16",
+    "Year": 1.0,
+    "TotalRentals": 7333.0
+  },
+  {
+    "RentalDate": "2012-09-17",
+    "Year": 1.0,
+    "TotalRentals": 6869.0
+  },
+  {
+    "RentalDate": "2012-09-18",
+    "Year": 1.0,
+    "TotalRentals": 4073.0
+  },
+  {
+    "RentalDate": "2012-09-19",
+    "Year": 1.0,
+    "TotalRentals": 7591.0
+  },
+  {
+    "RentalDate": "2012-09-20",
+    "Year": 1.0,
+    "TotalRentals": 7720.0
+  },
+  {
+    "RentalDate": "2012-09-21",
+    "Year": 1.0,
+    "TotalRentals": 8167.0
+  },
+  {
+    "RentalDate": "2012-09-22",
+    "Year": 1.0,
+    "TotalRentals": 8395.0
+  },
+  {
+    "RentalDate": "2012-09-23",
+    "Year": 1.0,
+    "TotalRentals": 7907.0
+  },
+  {
+    "RentalDate": "2012-09-24",
+    "Year": 1.0,
+    "TotalRentals": 7436.0
+  },
+  {
+    "RentalDate": "2012-09-25",
+    "Year": 1.0,
+    "TotalRentals": 7538.0
+  },
+  {
+    "RentalDate": "2012-09-26",
+    "Year": 1.0,
+    "TotalRentals": 7733.0
+  },
+  {
+    "RentalDate": "2012-09-27",
+    "Year": 1.0,
+    "TotalRentals": 7393.0
+  },
+  {
+    "RentalDate": "2012-09-28",
+    "Year": 1.0,
+    "TotalRentals": 7415.0
+  },
+  {
+    "RentalDate": "2012-09-29",
+    "Year": 1.0,
+    "TotalRentals": 8555.0
+  },
+  {
+    "RentalDate": "2012-09-30",
+    "Year": 1.0,
+    "TotalRentals": 6889.0
+  },
+  {
+    "RentalDate": "2012-10-01",
+    "Year": 1.0,
+    "TotalRentals": 6778.0
+  },
+  {
+    "RentalDate": "2012-10-02",
+    "Year": 1.0,
+    "TotalRentals": 4639.0
+  },
+  {
+    "RentalDate": "2012-10-03",
+    "Year": 1.0,
+    "TotalRentals": 7572.0
+  },
+  {
+    "RentalDate": "2012-10-04",
+    "Year": 1.0,
+    "TotalRentals": 7328.0
+  },
+  {
+    "RentalDate": "2012-10-05",
+    "Year": 1.0,
+    "TotalRentals": 8156.0
+  },
+  {
+    "RentalDate": "2012-10-06",
+    "Year": 1.0,
+    "TotalRentals": 7965.0
+  },
+  {
+    "RentalDate": "2012-10-07",
+    "Year": 1.0,
+    "TotalRentals": 3510.0
+  },
+  {
+    "RentalDate": "2012-10-08",
+    "Year": 1.0,
+    "TotalRentals": 5478.0
+  },
+  {
+    "RentalDate": "2012-10-09",
+    "Year": 1.0,
+    "TotalRentals": 6392.0
+  },
+  {
+    "RentalDate": "2012-10-10",
+    "Year": 1.0,
+    "TotalRentals": 7691.0
+  },
+  {
+    "RentalDate": "2012-10-11",
+    "Year": 1.0,
+    "TotalRentals": 7570.0
+  },
+  {
+    "RentalDate": "2012-10-12",
+    "Year": 1.0,
+    "TotalRentals": 7282.0
+  },
+  {
+    "RentalDate": "2012-10-13",
+    "Year": 1.0,
+    "TotalRentals": 7109.0
+  },
+  {
+    "RentalDate": "2012-10-14",
+    "Year": 1.0,
+    "TotalRentals": 6639.0
+  },
+  {
+    "RentalDate": "2012-10-15",
+    "Year": 1.0,
+    "TotalRentals": 5875.0
+  },
+  {
+    "RentalDate": "2012-10-16",
+    "Year": 1.0,
+    "TotalRentals": 7534.0
+  },
+  {
+    "RentalDate": "2012-10-17",
+    "Year": 1.0,
+    "TotalRentals": 7461.0
+  },
+  {
+    "RentalDate": "2012-10-18",
+    "Year": 1.0,
+    "TotalRentals": 7509.0
+  },
+  {
+    "RentalDate": "2012-10-19",
+    "Year": 1.0,
+    "TotalRentals": 5424.0
+  },
+  {
+    "RentalDate": "2012-10-20",
+    "Year": 1.0,
+    "TotalRentals": 8090.0
+  },
+  {
+    "RentalDate": "2012-10-21",
+    "Year": 1.0,
+    "TotalRentals": 6824.0
+  },
+  {
+    "RentalDate": "2012-10-22",
+    "Year": 1.0,
+    "TotalRentals": 7058.0
+  },
+  {
+    "RentalDate": "2012-10-23",
+    "Year": 1.0,
+    "TotalRentals": 7466.0
+  },
+  {
+    "RentalDate": "2012-10-24",
+    "Year": 1.0,
+    "TotalRentals": 7693.0
+  },
+  {
+    "RentalDate": "2012-10-25",
+    "Year": 1.0,
+    "TotalRentals": 7359.0
+  },
+  {
+    "RentalDate": "2012-10-26",
+    "Year": 1.0,
+    "TotalRentals": 7444.0
+  },
+  {
+    "RentalDate": "2012-10-27",
+    "Year": 1.0,
+    "TotalRentals": 7852.0
+  },
+  {
+    "RentalDate": "2012-10-28",
+    "Year": 1.0,
+    "TotalRentals": 4459.0
+  },
+  {
+    "RentalDate": "2012-10-29",
+    "Year": 1.0,
+    "TotalRentals": 22.0
+  },
+  {
+    "RentalDate": "2012-10-30",
+    "Year": 1.0,
+    "TotalRentals": 1096.0
+  },
+  {
+    "RentalDate": "2012-10-31",
+    "Year": 1.0,
+    "TotalRentals": 5566.0
+  },
+  {
+    "RentalDate": "2012-11-01",
+    "Year": 1.0,
+    "TotalRentals": 5986.0
+  },
+  {
+    "RentalDate": "2012-11-02",
+    "Year": 1.0,
+    "TotalRentals": 5847.0
+  },
+  {
+    "RentalDate": "2012-11-03",
+    "Year": 1.0,
+    "TotalRentals": 5138.0
+  },
+  {
+    "RentalDate": "2012-11-04",
+    "Year": 1.0,
+    "TotalRentals": 5107.0
+  },
+  {
+    "RentalDate": "2012-11-05",
+    "Year": 1.0,
+    "TotalRentals": 5259.0
+  },
+  {
+    "RentalDate": "2012-11-06",
+    "Year": 1.0,
+    "TotalRentals": 5686.0
+  },
+  {
+    "RentalDate": "2012-11-07",
+    "Year": 1.0,
+    "TotalRentals": 5035.0
+  },
+  {
+    "RentalDate": "2012-11-08",
+    "Year": 1.0,
+    "TotalRentals": 5315.0
+  },
+  {
+    "RentalDate": "2012-11-09",
+    "Year": 1.0,
+    "TotalRentals": 5992.0
+  },
+  {
+    "RentalDate": "2012-11-10",
+    "Year": 1.0,
+    "TotalRentals": 6536.0
+  },
+  {
+    "RentalDate": "2012-11-11",
+    "Year": 1.0,
+    "TotalRentals": 6852.0
+  },
+  {
+    "RentalDate": "2012-11-12",
+    "Year": 1.0,
+    "TotalRentals": 6269.0
+  },
+  {
+    "RentalDate": "2012-11-13",
+    "Year": 1.0,
+    "TotalRentals": 4094.0
+  },
+  {
+    "RentalDate": "2012-11-14",
+    "Year": 1.0,
+    "TotalRentals": 5495.0
+  },
+  {
+    "RentalDate": "2012-11-15",
+    "Year": 1.0,
+    "TotalRentals": 5445.0
+  },
+  {
+    "RentalDate": "2012-11-16",
+    "Year": 1.0,
+    "TotalRentals": 5698.0
+  },
+  {
+    "RentalDate": "2012-11-17",
+    "Year": 1.0,
+    "TotalRentals": 5629.0
+  },
+  {
+    "RentalDate": "2012-11-18",
+    "Year": 1.0,
+    "TotalRentals": 4669.0
+  },
+  {
+    "RentalDate": "2012-11-19",
+    "Year": 1.0,
+    "TotalRentals": 5499.0
+  },
+  {
+    "RentalDate": "2012-11-20",
+    "Year": 1.0,
+    "TotalRentals": 5634.0
+  },
+  {
+    "RentalDate": "2012-11-21",
+    "Year": 1.0,
+    "TotalRentals": 5146.0
+  },
+  {
+    "RentalDate": "2012-11-22",
+    "Year": 1.0,
+    "TotalRentals": 2425.0
+  },
+  {
+    "RentalDate": "2012-11-23",
+    "Year": 1.0,
+    "TotalRentals": 3910.0
+  },
+  {
+    "RentalDate": "2012-11-24",
+    "Year": 1.0,
+    "TotalRentals": 2277.0
+  },
+  {
+    "RentalDate": "2012-11-25",
+    "Year": 1.0,
+    "TotalRentals": 2424.0
+  },
+  {
+    "RentalDate": "2012-11-26",
+    "Year": 1.0,
+    "TotalRentals": 5087.0
+  },
+  {
+    "RentalDate": "2012-11-27",
+    "Year": 1.0,
+    "TotalRentals": 3959.0
+  },
+  {
+    "RentalDate": "2012-11-28",
+    "Year": 1.0,
+    "TotalRentals": 5260.0
+  },
+  {
+    "RentalDate": "2012-11-29",
+    "Year": 1.0,
+    "TotalRentals": 5323.0
+  },
+  {
+    "RentalDate": "2012-11-30",
+    "Year": 1.0,
+    "TotalRentals": 5668.0
+  },
+  {
+    "RentalDate": "2012-12-01",
+    "Year": 1.0,
+    "TotalRentals": 5191.0
+  },
+  {
+    "RentalDate": "2012-12-02",
+    "Year": 1.0,
+    "TotalRentals": 4649.0
+  },
+  {
+    "RentalDate": "2012-12-03",
+    "Year": 1.0,
+    "TotalRentals": 6234.0
+  },
+  {
+    "RentalDate": "2012-12-04",
+    "Year": 1.0,
+    "TotalRentals": 6606.0
+  },
+  {
+    "RentalDate": "2012-12-05",
+    "Year": 1.0,
+    "TotalRentals": 5729.0
+  },
+  {
+    "RentalDate": "2012-12-06",
+    "Year": 1.0,
+    "TotalRentals": 5375.0
+  },
+  {
+    "RentalDate": "2012-12-07",
+    "Year": 1.0,
+    "TotalRentals": 5008.0
+  },
+  {
+    "RentalDate": "2012-12-08",
+    "Year": 1.0,
+    "TotalRentals": 5582.0
+  },
+  {
+    "RentalDate": "2012-12-09",
+    "Year": 1.0,
+    "TotalRentals": 3228.0
+  },
+  {
+    "RentalDate": "2012-12-10",
+    "Year": 1.0,
+    "TotalRentals": 5170.0
+  },
+  {
+    "RentalDate": "2012-12-11",
+    "Year": 1.0,
+    "TotalRentals": 5501.0
+  },
+  {
+    "RentalDate": "2012-12-12",
+    "Year": 1.0,
+    "TotalRentals": 5319.0
+  },
+  {
+    "RentalDate": "2012-12-13",
+    "Year": 1.0,
+    "TotalRentals": 5532.0
+  },
+  {
+    "RentalDate": "2012-12-14",
+    "Year": 1.0,
+    "TotalRentals": 5611.0
+  },
+  {
+    "RentalDate": "2012-12-15",
+    "Year": 1.0,
+    "TotalRentals": 5047.0
+  },
+  {
+    "RentalDate": "2012-12-16",
+    "Year": 1.0,
+    "TotalRentals": 3786.0
+  },
+  {
+    "RentalDate": "2012-12-17",
+    "Year": 1.0,
+    "TotalRentals": 4585.0
+  },
+  {
+    "RentalDate": "2012-12-18",
+    "Year": 1.0,
+    "TotalRentals": 5557.0
+  },
+  {
+    "RentalDate": "2012-12-19",
+    "Year": 1.0,
+    "TotalRentals": 5267.0
+  },
+  {
+    "RentalDate": "2012-12-20",
+    "Year": 1.0,
+    "TotalRentals": 4128.0
+  },
+  {
+    "RentalDate": "2012-12-21",
+    "Year": 1.0,
+    "TotalRentals": 3623.0
+  },
+  {
+    "RentalDate": "2012-12-22",
+    "Year": 1.0,
+    "TotalRentals": 1749.0
+  },
+  {
+    "RentalDate": "2012-12-23",
+    "Year": 1.0,
+    "TotalRentals": 1787.0
+  },
+  {
+    "RentalDate": "2012-12-24",
+    "Year": 1.0,
+    "TotalRentals": 920.0
+  },
+  {
+    "RentalDate": "2012-12-25",
+    "Year": 1.0,
+    "TotalRentals": 1013.0
+  },
+  {
+    "RentalDate": "2012-12-26",
+    "Year": 1.0,
+    "TotalRentals": 441.0
+  },
+  {
+    "RentalDate": "2012-12-27",
+    "Year": 1.0,
+    "TotalRentals": 2114.0
+  },
+  {
+    "RentalDate": "2012-12-28",
+    "Year": 1.0,
+    "TotalRentals": 3095.0
+  },
+  {
+    "RentalDate": "2012-12-29",
+    "Year": 1.0,
+    "TotalRentals": 1341.0
+  },
+  {
+    "RentalDate": "2012-12-30",
+    "Year": 1.0,
+    "TotalRentals": 1796.0
+  },
+  {
+    "RentalDate": "2012-12-31",
+    "Year": 1.0,
+    "TotalRentals": 2729.0
+  }
+]

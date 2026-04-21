@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BikeDemandForecasting/BikeDemandForecasting.csproj" />
+  <Project Path="TaxiFarePrediction/TaxiFarePrediction.csproj" />
+</Solution>
